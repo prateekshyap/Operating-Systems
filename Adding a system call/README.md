@@ -8,7 +8,7 @@
 
 <p>Add a function prototype in syscall.c</p>
 
-<p>Define the function in sysproc.h</p>
+<p>Define the function in sysproc.c</p>
 
 <p>Add system call to usys.S</p>
 
